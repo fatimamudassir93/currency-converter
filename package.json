@@ -1,0 +1,21 @@
+{
+  "name": "shiza-coder-currency-converter",
+  "version": "1.1.2",
+  "description": "with this you can easily convert your currency",
+  "main": "main.js",
+  "type": "module",
+    "access": "public",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fatima-mudassir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
